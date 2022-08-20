@@ -1,0 +1,13 @@
+{
+  "name": "MachineLearning",
+  "version": "1.0.0",
+  "description": "Testing out Brain.js",
+  "main": "BrainJS/index.js",
+  "author": "Dan B",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.15",
+    "gpu.js": "^2.15.2"
+  }
+}
